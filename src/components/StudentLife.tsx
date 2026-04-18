@@ -46,7 +46,7 @@ const activities = [
     },
     {
         title: "Sports Day",
-        image: "/Sports-Day.jpg",
+        image: "/Sports6.jpg",
     },
     {
         title: "Students Activities",

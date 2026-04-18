@@ -200,7 +200,7 @@ export default function EnquiryPage() {
                                         <option value="Class I" className="bg-[#0a0f1a]">Class I</option>
                                         <option value="Class II - V" className="bg-[#0a0f1a]">Class II - V</option>
                                         <option value="Class VI - VIII" className="bg-[#0a0f1a]">Class VI - VIII</option>
-                                        <option value="Class IX - XII" className="bg-[#0a0f1a]">Class IX - XII</option>
+                                        {/* <option value="Class IX - XII" className="bg-[#0a0f1a]">Class IX - XII</option> */}
                                     </select>
                                 </div>
                                 <div>

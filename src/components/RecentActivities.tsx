@@ -8,24 +8,24 @@ import Link from "next/link";
 
 const events = [
     {
-        title: "Competition",
+        title: " Science Quiz",
         subtitle: "Inter-School Events",
         date: "FEB 05, 2026",
-        image: "/Gallery/Competition/Competition.jpg",
+        image: "/a3.webp",
         borderColor: "border-red-500",
     },
     {
-        title: "Annual Function",
-        subtitle: "Celebration & Awards",
+        title: " Computer lab",
+        subtitle: "Lab & Awards",
         date: "FEB 03, 2026",
-        image: "/ANNUAL.jpg",
+        image: "/Gallery/training/lab.webp",
         borderColor: "border-blue-500",
     },
     {
-        title: "Activities",
-        subtitle: "Student Participation",
+        title: "Yoga Classes",
+        subtitle: "Student Yoga",
         date: "JAN 29, 2026",
-        image: "/Gallery/Teachers-Events/Activities.webp",
+        image: "/Gallery/Yoga/Yoga-Day.jpg",
         borderColor: "border-purple-500",
     },
     {
